@@ -14,7 +14,7 @@ namespace Manieri_RicercaConcorrente
             var random = new Random();
 
             for (int i = 0; i <= 99; i++)
-                array[i]=(random.Next(100));
+                array[i]=(random.Next(100)); 
             
         }
     }
